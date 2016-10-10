@@ -22,7 +22,7 @@ var team = [
 	{
 		name: "Anton Sivertsson", 
 		photo: "img/members/Anton.jpg",
-		github: "herrr"
+		github: "antonsivertsson"
 	}, 
 	{
 		name: "Emil Westin",
