@@ -3,7 +3,7 @@ var team = [
 		name: "Rickard Bergeling",
 		photo: "img/members/Rickard.png",
 		github: "herrr",
-		responsibilites: ["3D models", "Networking"]
+		responsibilites: ["3D models", "Networking", "UI"]
 	},
 	{
 		name: "Erik Forsberg",
@@ -27,7 +27,7 @@ var team = [
 		name: "Anton Sivertsson",
 		photo: "img/members/Anton.jpg",
 		github: "antonsivertsson",
-		responsibilites: ["Bow interaction"]
+		responsibilites: ["Bow interaction", "Networking", "Enemy health UI", "Game Logic", "Sound"]
 	},
 	{
 		name: "Emil Westin",
