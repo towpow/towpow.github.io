@@ -11,9 +11,10 @@
 #theTeam .member {
 	display: inline-block;
 	vertical-align: top;
-	margin:auto;
-	width:15%;
-	margin-bottom:20px;
+	/*margin:auto;*/
+	width:20%;
+	/*margin-bottom:20px;*/
+	margin: 0 15px 20px 15px;
 }
 
 .center {
