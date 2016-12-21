@@ -9,7 +9,7 @@ var team = [
 		name: "Erik Forsberg",
 		photo: "img/members/Erik.jpg",
 		github: "ankhuve",
-		responsibilites: ["Arrow effects", "World modeling"]
+		responsibilites: ["Arrow effects & 3D models", "World modeling", "PixelSense and Vive interaction"]
 	},
 	{
 		name: "Arvid Sätterkvist",
