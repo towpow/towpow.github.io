@@ -33,7 +33,7 @@ var team = [
 		name: "Emil Westin",
 		photo: "img/members/Emil.jpg",
 		github: "emiwes",
-		responsibilites: ["Networking", "PixelSense interaction", "Bow interaction"]
+		responsibilites: ["Networking", "PixelSense and Vive interaction", "Game Logic"]
 	}
 ];
 

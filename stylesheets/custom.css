@@ -4,6 +4,24 @@
 	background-position: 50%;
 }
 
+#techLogos{
+	text-align:center;
+}
+
+#techLogos .narrow {
+	width:10%;
+}
+
+#techLogos .wide {
+	width:15%;
+}
+
+.logo {
+	vertical-align:middle;
+	height:auto;
+	margin:20px;
+}
+
 #theTeam {
 	text-align: center;
 }
@@ -25,10 +43,26 @@
 	#theTeam .member {
 		width:30%;
 	}
+
+	#techLogos .narrow {
+		width:12%;
+	}
+
+	#techLogos .wide {
+		width:18%;
+	}
 }
 
 @media screen and (max-width: 42em) {
 	#theTeam .member {
 		width:40%;
+	}
+
+	#techLogos .narrow {
+		width:25%;
+	}
+
+	#techLogos .wide {
+		width:30%;
 	}
 }
