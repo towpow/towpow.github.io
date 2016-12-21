@@ -3,13 +3,13 @@ var team = [
 		name: "Rickard Bergeling",
 		photo: "img/members/Rickard.png",
 		github: "herrr",
-		responsibilites: ["3D models", "Networking"]
+		responsibilites: ["3D models", "Networking", "UI"]
 	},
 	{
 		name: "Erik Forsberg",
 		photo: "img/members/Erik.jpg",
 		github: "ankhuve",
-		responsibilites: ["Arrow effects", "World modeling"]
+		responsibilites: ["Arrow effects & 3D models", "World modeling", "PixelSense and Vive interaction"]
 	},
 	{
 		name: "Arvid Sätterkvist",
@@ -27,13 +27,13 @@ var team = [
 		name: "Anton Sivertsson",
 		photo: "img/members/Anton.jpg",
 		github: "antonsivertsson",
-		responsibilites: ["Bow interaction"]
+		responsibilites: ["Bow interaction", "Networking", "Enemy health UI", "Game Logic", "Sound"]
 	},
 	{
 		name: "Emil Westin",
 		photo: "img/members/Emil.jpg",
 		github: "emiwes",
-		responsibilites: ["Networking", "PixelSense interaction", "Bow interaction"]
+		responsibilites: ["Networking", "PixelSense and Vive interaction", "Game Logic"]
 	}
 ];
 
