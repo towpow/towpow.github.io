@@ -3,7 +3,7 @@ var team = [
 		name: "Rickard Bergeling",
 		photo: "img/members/Rickard.png",
 		github: "herrr",
-		responsibilites: ["3D models", "Networking", "UI"]
+		responsibilites: ["3D models", "Networking", "UI", "Game Logic"]
 	},
 	{
 		name: "Erik Forsberg",
